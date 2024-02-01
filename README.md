@@ -13,23 +13,54 @@
 
 You can find my latest tasks and updates on my GitHub profile. I update it daily with my progress and new tasks, including lots of emojis! Here are some highlights:
 
-- 📝 Update README with emojis
-- 💡 Implement new feature in Flutter app
-- 🛠️ Fix bug in C++ code
-- 📚 Study algorithms and data structures
-- 📌 Create design mockups for upcoming project
+📖 **Introduction to C Language:**
+📝(Task-1) Write a program to print name, age, and school.
+🔡(Task-2) Write a program pattern to print "RNW".
+🌟(Task-3) Write a program to print the following pattern:
+*
+* *
+* * *
+* *
+*
+
+✨(Task-4) Write a program to print the following pattern:
+*
+* 
+* 
+*                   *   *                        *
+*               *           *                 *
+*           *                   *         *
+*       *                           *  *
+*    *
+*
+
+📖(Task-5) **Datatype, Constant & Variable:**
+🔢 Write a program to perform all arithmetic operators such as +, -, *, /, and %.
+
+🎉 **Output:**
+Addition of 12 and 6 is 18
+Subtraction of 12 and 6 is 6
+Multiplication of 12 and 6 is 72
+Division of 12 and 6 is 2
+Modulo of 12 and 6 is 0
+
+12 + 6 = 18
+12 - 6 = 6
+12 * 6 = 72
+12 / 6 = 2
+12 % 6 = 0
+
 
 ## Get in Touch 📫
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaboration and discussions!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- 📧 Email: [bhavyanagarflutterdeveloper@gmail.com](mailto:bhavyanagarflutterdeveloper@gmail.com)
 
 ## Let's Connect! 🌟
 
 Connect with me on social media platforms and let's grow together!
 
-- 🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)
-- 📷 Instagram: [instagram.com/yourhandle](https://www.instagram.com/yourhandle)
+- 🐦 Twitter: [twitter.com/BhavyaWithCode](https://twitter.com/BhavyaWithCode)
+- 📷 Instagram: [instagram.com/BhavyaWithCode](https://www.instagram.com/BhavyaWithCode)
 
