@@ -19,12 +19,7 @@ You can find my latest tasks and updates on my GitHub profile. I update it daily
 ![RNW](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/731f6a5e-2ab2-46e2-b43b-7d4edbf03029)
 
 🌟(Task-3) Write a program to print the following pattern:<br/>
-*
-* *
-* * *
-* *
-*
-
+![star_pattern_1](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/65cd244b-921f-4790-9ec6-2735570c9a97)<br/>
 ✨(Task-4) Write a program to print the following pattern:<br/>
 *
 * 
