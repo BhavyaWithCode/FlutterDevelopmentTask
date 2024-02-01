@@ -21,17 +21,10 @@ You can find my latest tasks and updates on my GitHub profile. I update it daily
 🌟(Task-3) Write a program to print the following pattern:<br/>
 ![star_pattern_1](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/65cd244b-921f-4790-9ec6-2735570c9a97)<br/>
 ✨(Task-4) Write a program to print the following pattern:<br/>
-*
-* 
-* 
-*                   *   *                        *
-*               *           *                 *
-*           *                   *         *
-*       *                           *  *
-*    *
-*
+![star_pattern_2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/7e3d07d9-d11b-4d76-8d8d-b860662692a9)
 
-📖(Task-5) **Datatype, Constant & Variable:**
+
+📖(Task-5) **Datatype, Constant & Variable:**<br/>
 🔢 Write a program to perform all arithmetic operators such as +, -, *, /, and %.<br/>
 
 🎉 **Output:**
