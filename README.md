@@ -14,16 +14,16 @@
 You can find my latest tasks and updates on my GitHub profile. I update it daily with my progress and new tasks, including lots of emojis! Here are some highlights:
 
 📖 **Introduction to C Language:**
-📝(Task-1) Write a program to print name, age, and school.
-🔡(Task-2) Write a program pattern to print "RNW".
-🌟(Task-3) Write a program to print the following pattern:
+📝(Task-1) Write a program to print name, age, and school.<br/>
+🔡(Task-2) Write a program pattern to print "RNW".<br/>
+🌟(Task-3) Write a program to print the following pattern:<br/>
 *
 * *
 * * *
 * *
 *
 
-✨(Task-4) Write a program to print the following pattern:
+✨(Task-4) Write a program to print the following pattern:<br/>
 *
 * 
 * 
@@ -35,27 +35,27 @@ You can find my latest tasks and updates on my GitHub profile. I update it daily
 *
 
 📖(Task-5) **Datatype, Constant & Variable:**
-🔢 Write a program to perform all arithmetic operators such as +, -, *, /, and %.
+🔢 Write a program to perform all arithmetic operators such as +, -, *, /, and %.<br/>
 
 🎉 **Output:**
-Addition of 12 and 6 is 18
-Subtraction of 12 and 6 is 6
-Multiplication of 12 and 6 is 72
-Division of 12 and 6 is 2
-Modulo of 12 and 6 is 0
+Addition of 12 and 6 is 18<br/>
+Subtraction of 12 and 6 is 6<br/>
+Multiplication of 12 and 6 is 72<br/>
+Division of 12 and 6 is 2<br/>
+Modulo of 12 and 6 is 0<br/>
 
-12 + 6 = 18
-12 - 6 = 6
-12 * 6 = 72
-12 / 6 = 2
-12 % 6 = 0
+12 + 6 = 18<br/>
+12 - 6 = 6<br/>
+12 * 6 = 72<br/>
+12 / 6 = 2<br/>
+12 % 6 = 0<br/>
 
 
 ## Get in Touch 📫
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaboration and discussions!
 
-- 📧 Email: [bhavyanagarflutterdeveloper@gmail.com](mailto:bhavyanagarflutterdeveloper@gmail.com)
+- 📧 Email: [bhavyawithcode@gmail.com](mailto:bhavyawithcode@gmail.com)
 
 ## Let's Connect! 🌟
 
