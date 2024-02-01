@@ -16,7 +16,7 @@ You can find my latest tasks and updates on my GitHub profile. I update it daily
 📖 **Introduction to C Language:**<br/>
 📝(Task-1) Write a program to print name, age, and school.<br/>
 🔡(Task-2) Write a program pattern to print "RNW".<br/>
-![Alt text](image_url)
+![Alt text](https://drive.internxt.com/sh/file/01311511-d020-4896-bf3b-33099651df7f/15dbb4d8c6b656a584f7b3542ad308983be887b4ebae0bade8e43738b88d811b)
 
 🌟(Task-3) Write a program to print the following pattern:<br/>
 *
