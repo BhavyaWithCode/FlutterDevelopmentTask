@@ -13,7 +13,7 @@
 
 You can find my latest tasks and updates on my GitHub profile. I update it daily with my progress and new tasks, including lots of emojis! Here are some highlights:
 
-📖 **Introduction to C Language:**<br/>
+📖 (Ch-1) **Introduction to C Language:**<br/>
 📝(Task-1) Write a program to print name, age, and school.<br/>
 🔡(Task-2) Write a program pattern to print "RNW".<br/>
 ![RNW](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/731f6a5e-2ab2-46e2-b43b-7d4edbf03029)
@@ -24,8 +24,8 @@ You can find my latest tasks and updates on my GitHub profile. I update it daily
 ![star_pattern_2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/7e3d07d9-d11b-4d76-8d8d-b860662692a9)
 
 
-📖(Task-5) **Datatype, Constant & Variable:**<br/>
-🔢 Write a program to perform all arithmetic operators such as +, -, *, /, and %.<br/>
+📖 (ch-2) **Datatype, Constant & Variable:**<br/>
+🔢 (Task-5) Write a program to perform all arithmetic operators such as +, -, *, /, and %.<br/>
 
 🎉 **Output:**
 Addition of 12 and 6 is 18<br/>
