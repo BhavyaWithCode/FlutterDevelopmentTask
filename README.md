@@ -40,6 +40,18 @@ Modulo of 12 and 6 is 0<br/>
 12 / 6 = 2<br/>
 12 % 6 = 0<br/>
 
+🔴🔄📏🔴²(Task-6)Write a Program to find the area of a circle.<br/>
+Formula: pi * radius * radius <br/>
+
+🟦🔄📏🟦 * 🟦🔄📐🟦(Task-7)Write a Program to find the area of a rectangle.<br/>
+Formula : area=width*height;<br/>
+
+🔺🔄📐🔺 * 🔺🔄📏🔺 / 2(Task-8)Write a Program to find the area of a triangle.<br/>
+Formula:area = (b*h)/2<br/>
+
+💰 = 💵 * 🕒 * 📈(Task-9)Write a Program to find Simple interest.<br/>
+Formula:<br/>
+Simple Interest = (P × R × T)/100  where P = Principal Amount, R = Rate per Annum, T = Time (years)
 
 ## Get in Touch 📫
 
