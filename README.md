@@ -1,6 +1,6 @@
 # Hello, I'm Bhavya Nagar! 👋
 
-I'm a passionate Flutter developer and a student at Red and White Multimedia Education. Currently, I'm honing my skills in C and C++ alongside my Flutter development journey. I love to explore new technologies and contribute to open-source projects.
+🚀🌟 Hello! I'm a passionate Flutter developer and a student at Red and White Multimedia Education. Currently, I'm honing my skills in C and C++ alongside my Flutter development journey. I love to explore new technologies and contribute to open-source projects. 💻📚
 
 ## About Me ℹ️
 
