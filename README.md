@@ -51,7 +51,19 @@ Formula:area = (b*h)/2<br/>
 
 💰 = 💵 * 🕒 * 📈(Task-9) Write a Program to find Simple interest.<br/>
 Formula:<br/>
-Simple Interest = (P × R × T)/100  where P = Principal Amount, R = Rate per Annum, T = Time (years)
+Simple Interest = (P × R × T)/100  where P = Principal Amount, R = Rate per Annum, T = Time (years)<br/>
+
+🔁🔠🔄 (Task-10) Write a Program to Swap two variables using the third variable.<br/>
+
+🔄🔠🔄 (Task-11) Write a Program to Swap two variables without using the third variable.<br/>
+
+🧮 (Task-12) Write a Program to find the formula's answer (x+y)².<br/>
+
+🧮 (Task-13) Write a Program to find the formula's answer (x-y)².<br/>
+
+🧮 (Task-14) Write a Program to find the formula's answer (x+y)³.<br/>
+
+🧮 (Task-15) Write a Program to find the formula's answer (x+y+z)².<br/>
 
 ## Get in Touch 📫
 
