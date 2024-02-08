@@ -53,6 +53,7 @@ Formula:area = (b*h)/2<br/>
 Formula:<br/>
 Simple Interest = (P × R × T)/100  where P = Principal Amount, R = Rate per Annum, T = Time (years)<br/>
 
+📖 (ch-4) **4. Operator & Expression:**<br/>
 🔁🔠🔄 (Task-10) Write a Program to Swap two variables using the third variable.<br/>
 
 🔄🔠🔄 (Task-11) Write a Program to Swap two variables without using the third variable.<br/>
@@ -64,6 +65,27 @@ Simple Interest = (P × R × T)/100  where P = Principal Amount, R = Rate per An
 🧮 (Task-14) Write a Program to find the formula's answer (x+y)³.<br/>
 
 🧮 (Task-15) Write a Program to find the formula's answer (x+y+z)².<br/>
+
+## 🌟 Welcome to the Greenhorns Project 🌟
+
+Welcome to the Greenhorns Project, a journey of discovery and learning for budding programmers! 🚀💻
+
+### 🌱 About the Project
+The Greenhorns Project is a sanctuary for beginners in the world of coding, where they can embark on a transformative journey from novice to knowledgeable coder. 🌿✨ Our mission is to provide a supportive environment and engaging resources to help newcomers thrive in their coding endeavors.
+
+### 🎯 Project Tasks
+In the Greenhorns project, you'll undertake three exciting tasks, each worth 10 marks. These tasks are designed to challenge your skills and deepen your understanding of programming concepts:
+
+1. **Task 1: Temperature Conversion**
+   - Write a program to convert temperature from degrees Celsius to Fahrenheit.
+
+2. **Task 2: Gross Salary Calculation**
+   - Write a C program to find gross salary by adding % of HRA, DA, and TA of user choice.
+
+3. **Task 3: Triangle Angle Calculation**
+   - Write a C program to find the third angle of a triangle if two other angles are given.
+
+Complete these tasks to earn your marks and level up your programming prowess! 🏆🚀
 
 ## Get in Touch 📫
 
