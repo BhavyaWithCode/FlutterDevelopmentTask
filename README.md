@@ -85,6 +85,15 @@ In the Greenhorns project, you'll undertake three exciting tasks, each worth 10 
 3. **Task 3: Triangle Angle Calculation**
    - Write a C program to find the third angle of a triangle if two other angles are given.
 
+### 📊 Original Output Images
+To provide visual clarity, here are the original output images for each task:
+
+Task 1: Temperature Conversion
+
+Task 2: Gross Salary Calculation
+
+Task 3: Triangle Angle Calculation
+
 Complete these tasks to earn your marks and level up your programming prowess! 🏆🚀
 
 ## Get in Touch 📫
