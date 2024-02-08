@@ -16,11 +16,15 @@ You can find my latest tasks and updates on my GitHub profile. I update it daily
 📖 (Ch-1) **Introduction to C Language:**<br/>
 📝(Task-1) Write a program to print name, age, and school.<br/>
 🔡(Task-2) Write a program pattern to print "RNW".<br/>
+
 ![RNW](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/731f6a5e-2ab2-46e2-b43b-7d4edbf03029)
 
 🌟(Task-3) Write a program to print the following pattern:<br/>
+
 ![star_pattern_1](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/65cd244b-921f-4790-9ec6-2735570c9a97)<br/>
+
 ✨(Task-4) Write a program to print the following pattern:<br/>
+
 ![star_pattern_2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/7e3d07d9-d11b-4d76-8d8d-b860662692a9)
 
 
