@@ -100,7 +100,9 @@ Task 2: Gross Salary Calculation<br/>
 
 ![GreenHornsTask2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/e41df842-b794-4b86-a0c5-bca266688f30)
 
-Task 3: Triangle Angle Calculation
+Task 3: Triangle Angle Calculation<br/>
+
+![GreenHornsTask3](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/883562bd-a851-47bd-9ba1-82ae6aabad75)
 
 Complete these tasks to earn your marks and level up your programming prowess! 🏆🚀
 
