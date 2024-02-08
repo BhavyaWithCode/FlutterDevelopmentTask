@@ -71,7 +71,7 @@ Simple Interest = (P × R × T)/100  where P = Principal Amount, R = Rate per An
 Welcome to the Greenhorns Project, a journey of discovery and learning for budding programmers! 🚀💻
 
 ### 🌱 About the Project
-The Greenhorns Project is a sanctuary for beginners in the world of coding, where they can embark on a transformative journey from novice to knowledgeable coder. 🌿✨ Our mission is to provide a supportive environment and engaging resources to help newcomers thrive in their coding endeavors.
+The Greenhorns Project is a sanctuary for budding coders, designed to nurture your skills and ignite your passion for programming. 🌿✨ In this project, you'll embark on a transformative journey of learning and discovery, guided by engaging tasks and supportive resources.
 
 ### 🎯 Project Tasks
 In the Greenhorns project, you'll undertake three exciting tasks, each worth 10 marks. These tasks are designed to challenge your skills and deepen your understanding of programming concepts:
