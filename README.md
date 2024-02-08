@@ -94,7 +94,9 @@ To provide visual clarity, here are the original output images for each task:
 
 Task 1: Temperature Conversion
 
-Task 2: Gross Salary Calculation
+Task 2: Gross Salary Calculation<br/>
+
+![GreenHornsTask2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/e41df842-b794-4b86-a0c5-bca266688f30)
 
 Task 3: Triangle Angle Calculation
 
