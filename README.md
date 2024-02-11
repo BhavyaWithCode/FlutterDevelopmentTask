@@ -106,6 +106,14 @@ Task 3: Triangle Angle Calculation<br/>
 
 Complete these tasks to earn your marks and level up your programming prowess! 🏆🚀
 
+📖 (ch-5) **Control Structure:**<br/>
+🧮 (Task-16) Write a Program to find the minimum number from the given 2 numbers using if else.<br/>
+🧮 (Task-17) Write a Program to find if a given number is neutral or not using a ladder if else.<br/>
+🧮 (Task-18) Write a Program to find the number is even or odd using if else.<br/>
+🧮 (Task-19) Write a Program to find the minimum number from the given 3 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
+🧮 (Task-20) Write a Program to find the maximum number from the given 4 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
+🧮 (Task-21) Write a Program to find the maximum number from the given 5 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
+
 ## Get in Touch 📫
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaboration and discussions!
