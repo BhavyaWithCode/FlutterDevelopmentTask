@@ -113,6 +113,8 @@ Complete these tasks to earn your marks and level up your programming prowess! �
 🧮 (Task-19) Write a Program to find the minimum number from the given 3 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
 🧮 (Task-20) Write a Program to find the maximum number from the given 4 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
 🧮 (Task-21) Write a Program to find the maximum number from the given 5 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
+🧮 (Task-22) Write a Program to find the minimum number from the given 4 numbers using the ternary operator.<br/>
+🧮 (Task-23) Write a Program to create a menu-driven program for Telecom call service conversation using nested switch case.<br/>
 
 ## Get in Touch 📫
 
