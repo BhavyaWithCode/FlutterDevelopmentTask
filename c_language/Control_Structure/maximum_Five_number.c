@@ -1,9 +1,10 @@
 #include <stdio.h>
-
+#include<conio.h>
 int main()
 {
-    int firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNumber;
 
+    int firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNumber;
+    clrscr();
     printf("\n************************************************************\n");
     printf("Enter The First Number  :- ");
     scanf("%d", &firstNumber);
@@ -20,57 +21,113 @@ int main()
     printf("************************************************************\n");
     printf("*                     Output Of Maximum                     *\n");
 
-    if (firstNumber == secondNumber && secondNumber == thirdNumber && thirdNumber == fourthNumber && fourthNumber == fifthNumber)
+    if (firstNumber > secondNumber) 
     {
-        printf("All values are same.\n");
-    }
-    else if (firstNumber == secondNumber)
-    {
-        printf("FirstNumber and SecondNumber both are same.\n");
-    }
-    else if (firstNumber == thirdNumber)
-    {
-        printf("FirstNumber and ThirdNumber both are same.\n");
-    }
-    else if (secondNumber == thirdNumber)
-    {
-        printf("SecondNumber and ThirdNumber both are same.\n");
-    }
-    else if (thirdNumber == fourthNumber)
-    {
-        printf("ThirdNumber and FourthNumber both are same.\n");
-    }
-    else if (secondNumber == fourthNumber)
-    {
-        printf("SecondNumber and FourthNumber both are same.\n");
-    }
-    else if (fourthNumber == fifthNumber)
-    {
-        printf("FourthNumber and FifthNumber both are same.\n");
-    }
-    else
-    {
-        if (firstNumber >= secondNumber && firstNumber >= thirdNumber && firstNumber >= fourthNumber && firstNumber >= fifthNumber)
+        if (firstNumber > thirdNumber) 
         {
-            printf("%d Is The Maximum Number\n", firstNumber);
+            if (firstNumber > fourthNumber) 
+            {
+                if (firstNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", firstNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
+            else 
+            {
+                if (fourthNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", fourthNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
         }
-        else if (secondNumber >= firstNumber && secondNumber >= thirdNumber && secondNumber >= fourthNumber && secondNumber >= fifthNumber)
+        else 
         {
-            printf("%d Is The Maximum Number\n", secondNumber);
+            if (thirdNumber > fourthNumber) 
+            {
+                if (thirdNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", thirdNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
+            else 
+            {
+                if (fourthNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", fourthNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
         }
-        else if (thirdNumber >= firstNumber && thirdNumber >= secondNumber && thirdNumber >= fourthNumber && thirdNumber >= fifthNumber)
+    }
+    else 
+    {
+        if (secondNumber > thirdNumber) 
         {
-            printf("%d Is The Maximum Number\n", thirdNumber);
+            if (secondNumber > fourthNumber) 
+            {
+                if (secondNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", secondNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
+            else 
+            {
+                if (fourthNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", fourthNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
         }
-        else if (fourthNumber >= firstNumber && fourthNumber >= secondNumber && fourthNumber >= thirdNumber && fourthNumber >= fifthNumber)
+        else 
         {
-            printf("%d Is The Maximum Number\n", fourthNumber);
-        }
-        else
-        {
-            printf("%d Is The Maximum Number\n", fifthNumber);
+            if (thirdNumber > fourthNumber) 
+            {
+                if (thirdNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", thirdNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
+            else 
+            {
+                if (fourthNumber > fifthNumber) 
+                {
+                    printf("%d Is The Maximum Number\n", fourthNumber);
+                }
+                else 
+                {
+                    printf("%d Is The Maximum Number\n", fifthNumber);
+                }
+            }
         }
     }
     printf("************************************************************\n");
+    getch();
     return 0;
 }

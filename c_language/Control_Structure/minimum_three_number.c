@@ -22,9 +22,9 @@ int main()
     printf("************************************************************\n");
     printf("*                     Output Of Maximum                     *\n");
 
-    if (FirstNumber <= SecondNumber)
+    if (FirstNumber < SecondNumber)
     {
-        if (FirstNumber <= ThreeNumber)
+        if (FirstNumber < ThreeNumber)
         {
             printf("%d Is The Minimum Number\n", FirstNumber);
         }
