@@ -116,6 +116,45 @@ Complete these tasks to earn your marks and level up your programming prowess! �
 🧮 (Task-22) Write a Program to find the minimum number from the given 4 numbers using the ternary operator.<br/>
 🧮 (Task-23) Write a Program to create a menu-driven program for Telecom call service conversation using nested switch case.<br/>
 
+### 🎉 Welcome to the Momentum Project 🎉
+
+Welcome to the Momentum Project, where you'll find an exciting opportunity to enhance your programming skills further! 🚀💡
+
+### 🌟 About the Project
+The Momentum Project is geared towards helping you solidify your programming knowledge and advance your abilities to the next level. 💪📈 In this project, you'll tackle two tasks, each designed to earn you 10 marks upon completion.
+
+1. **Task 1: Check Even or Odd**
+   - Write a program to check whether a number is even or odd using the ternary operator. For example:
+     - Input: Enter any number: 12
+     - Output: This number is Even.
+
+2. **Task 2: Calculate Electricity Bill**
+   - Write a program to input electricity unit charges and calculate the total electricity bill according to the given condition:
+     - For the first 50 units Rs. 0.50/unit.
+     - For the next 100 units Rs. 0.75/unit.
+     - For the next 100 units Rs. 1.20/unit.
+     - For units above 250 Rs. 1.50/unit.
+     - An additional surcharge of 20% is added to the bill. For example:
+       - Input: Enter electricity units: 435
+       - Output: Electricity Bill = Rs. 597.00
+
+
+Complete these tasks to achieve a total of 10 marks and propel yourself forward in your programming journey! 🏆🚀
+
+### 📊 Original Output Images
+To provide visual clarity, here are the original output images for each task:
+
+Task 1: Task Name<br/>
+
+![MomentumTask1](Image_Link_For_Task_1)
+
+Task 2: Task Name<br/>
+
+![MomentumTask2](Image_Link_For_Task_2)
+
+Continue your momentum and keep advancing in your programming endeavors! 🌟🚀
+
+
 ## Get in Touch 📫
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaboration and discussions!
