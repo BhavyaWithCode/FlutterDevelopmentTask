@@ -151,12 +151,22 @@ Task 1: Task Name<br/>
 
 Task 2: Task Name<br/>
 
-![MomentumTask2](Image_Link_For_Task_2)
+![Momentum-2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/62f6e6db-818d-42ac-9ccf-ae7f09920982)
+
 
 Continue your momentum and keep advancing in your programming endeavors! 🌟🚀
 
-
-## Get in Touch 📫
+📖 (ch-6) **Looping:**<br/>
+🧮 (Task-24)  Write a Program to print 1 to n using a while loop.<br/>
+🧮 (Task-25)  Write a Program to print n to 1 using a while loop.<br/>
+🧮 (Task-26)  Write a Program to print odd numbers from N to 1 using a while loop.<br/>
+🧮 (Task-27)  Write a Program to print leap years between two given numbers using a while loop.<br/>
+🧮 (Task-28)  Write a Program to print 1 to 10 using a do-while loop.<br/>
+🧮 (Task-29)  Write a Program to print 10 to 1 using for loop.<br/>
+🧮 (Task-30)  Write a Program to print even numbers from 1 to N using a do-while loop.<br/>
+🧮 (Task-31)  Write a Program to print the fibonacci series up to N numbers using for loop.<br/>
+ 
+ ## Get in Touch 📫
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaboration and discussions!
 
