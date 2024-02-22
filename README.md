@@ -144,12 +144,12 @@ Complete these tasks to achieve a total of 10 marks and propel yourself forward 
 ### 📊 Original Output Images
 To provide visual clarity, here are the original output images for each task:
 
-Task 1: Task Name<br/>
+Task 1: Even odd <br/>
 
 ![Momentum-1](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/735651bc-69a6-4ee3-a770-089d91cd0ea3)
 
 
-Task 2: Task Name<br/>
+Task 2: Electric City <br/>
 
 ![Momentum-2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/62f6e6db-818d-42ac-9ccf-ae7f09920982)
 
@@ -211,18 +211,24 @@ Q.4 Write a Program to find a number is a magic number or not.<br/>
 ### 📊 Original Output Images
 To provide visual clarity, here are the original output images for each task:
 
-Task 1: Task Name  <br/>
+Task 1: Alphabets  <br/>
 
 ![Alphabets](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/152d7b8a-a94a-4b2e-80cc-93f2e619bd0b)<br/>
 
-Task 2: Task Name  <br/>
+Task 2: Count  <br/>
 
 ![Counts](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/cc63840e-26d8-46fe-aea5-ce1693e282e5)<br/>
 
-Task 3: Task Name  <br/>
+Task 3: Sum of First and Last digit <br/>
+
+![sum_of_last_first](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/fd1530b8-0a62-4c8d-b873-75683b253dcf)
+
+Task 4: Magic Number <br/>
+
 ![Magic_Number](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/50400b45-9c96-4367-94ce-3b1f8579c637)<br/>
 
-Task 4: Task Name  <br/>
+Task 4: Magic Number  <br/>
+
 ![magicnumber](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/559262c4-0b62-46e8-bf11-05c8dc646895)<br/>
 
  ## Get in Touch 📫
