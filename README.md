@@ -217,13 +217,13 @@ Task 1: Task Name  <br/>
 
 Task 2: Task Name  <br/>
 
-*(Screenshot of Output)*<br/>
+![Counts](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/cc63840e-26d8-46fe-aea5-ce1693e282e5)<br/>
 
 Task 3: Task Name  <br/>
-*(Screenshot of Output)*<br/>
+![Magic_Number](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/50400b45-9c96-4367-94ce-3b1f8579c637)<br/>
 
 Task 4: Task Name  <br/>
-*(Screenshot of Output)*<br/>
+![magicnumber](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/559262c4-0b62-46e8-bf11-05c8dc646895)<br/>
 
  ## Get in Touch 📫
 
