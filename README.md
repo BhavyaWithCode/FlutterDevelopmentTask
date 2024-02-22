@@ -212,9 +212,11 @@ Q.4 Write a Program to find a number is a magic number or not.<br/>
 To provide visual clarity, here are the original output images for each task:
 
 Task 1: Task Name  <br/>
-*(Screenshot of Output)*<br/>
+
+![Alphabets](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/152d7b8a-a94a-4b2e-80cc-93f2e619bd0b)<br/>
 
 Task 2: Task Name  <br/>
+
 *(Screenshot of Output)*<br/>
 
 Task 3: Task Name  <br/>
