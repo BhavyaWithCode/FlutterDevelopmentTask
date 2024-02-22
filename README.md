@@ -176,52 +176,52 @@ Continue your momentum and keep advancing in your programming endeavors! 🌟�
 The Temperate Project aims to provide a thorough exploration of C language concepts, empowering learners to enhance their programming skills and deepen their understanding of fundamental principles. 📝💻
 
 ### Questions:
-Q.1 Write a Program to print all alphabets from a to z by skipping 3 alphabets using do while loop.
-   - For example,
-     Output: 
-     a, e, i, m, q, u, y
+Q.1 Write a Program to print all alphabets from a to z by skipping 3 alphabets using do while loop.<br/>
+   - For example,<br/>
+     Output: <br/>
+     a, e, i, m, q, u, y<br/>
 
-Q.2 Write a Program to count the total number of digits in a number.
-   - For example,
-     Input:
-     Enter any number: 752
-     Output: 
-     Total number of digits: 3
+Q.2 Write a Program to count the total number of digits in a number.<br/>
+   - For example,<br/>
+     Input:<br/>
+     Enter any number: 752<br/>
+     Output: <br/>
+     Total number of digits: 3<br/>
 
-Q.3 Write a Program to find the sum of a first and the last digit of a number.
-   - For example,
-     Input:
-     Enter any number: 384
-     Output: 
-     The sum of the first and the last digit: 7
+Q.3 Write a Program to find the sum of a first and the last digit of a number.<br/>
+   - For example,<br/>
+     Input:<br/>
+     Enter any number: 384<br/>
+     Output: <br/>
+     The sum of the first and the last digit: 7<br/>
 
-Q.4 Write a Program to find a number is a magic number or not.
-   - For example,
-     Input:
-     Enter any number: 1729
-     Output: 
-     This number is a magic number.
+Q.4 Write a Program to find a number is a magic number or not.<br/>
+   - For example,<br/>
+     Input:<br/>
+     Enter any number: 1729<br/>
+     Output: <br/>
+     This number is a magic number.<br/>
 
-   - For example,
-     Input:
-     Enter any number: 3698
-     Output: 
-     This number is not a magic number.
+   - For example,<br/>
+     Input:<br/>
+     Enter any number: 3698<br/>
+     Output: <br/>
+     This number is not a magic number.<br/>
 
 ### 📊 Original Output Images
 To provide visual clarity, here are the original output images for each task:
 
-Task 1: Task Name  
-*(Screenshot of Output)*
+Task 1: Task Name  <br/>
+*(Screenshot of Output)*<br/>
 
-Task 2: Task Name  
-*(Screenshot of Output)*
+Task 2: Task Name  <br/>
+*(Screenshot of Output)*<br/>
 
-Task 3: Task Name  
-*(Screenshot of Output)*
+Task 3: Task Name  <br/>
+*(Screenshot of Output)*<br/>
 
-Task 4: Task Name  
-*(Screenshot of Output)*
+Task 4: Task Name  <br/>
+*(Screenshot of Output)*<br/>
 
  ## Get in Touch 📫
 
