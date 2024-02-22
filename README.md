@@ -165,7 +165,64 @@ Continue your momentum and keep advancing in your programming endeavors! 🌟�
 🧮 (Task-29)  Write a Program to print 10 to 1 using for loop.<br/>
 🧮 (Task-30)  Write a Program to print even numbers from 1 to N using a do-while loop.<br/>
 🧮 (Task-31)  Write a Program to print the fibonacci series up to N numbers using for loop.<br/>
- 
+🧮 (Task-32)  Write a Program to print the sum of all numbers from 1 to N using for loop.<br/>
+🧮 (Task-33)  Write a Program to print the factorial of number N using for loop.<br/>
+🧮 (Task-34)  Write a Program to print the multiplication table of the number N using any type of loop.<br/>
+🧮 (Task-35)  Write a Program to find sum of first and last digit in a number.<br/>
+
+## 🌟 Welcome to the Temperate Project 🌟
+
+### About the Project:
+The Temperate Project aims to provide a thorough exploration of C language concepts, empowering learners to enhance their programming skills and deepen their understanding of fundamental principles. 📝💻
+
+### Questions:
+Q.1 Write a Program to print all alphabets from a to z by skipping 3 alphabets using do while loop.
+   - For example,
+     Output: 
+     a, e, i, m, q, u, y
+
+Q.2 Write a Program to count the total number of digits in a number.
+   - For example,
+     Input:
+     Enter any number: 752
+     Output: 
+     Total number of digits: 3
+
+Q.3 Write a Program to find the sum of a first and the last digit of a number.
+   - For example,
+     Input:
+     Enter any number: 384
+     Output: 
+     The sum of the first and the last digit: 7
+
+Q.4 Write a Program to find a number is a magic number or not.
+   - For example,
+     Input:
+     Enter any number: 1729
+     Output: 
+     This number is a magic number.
+
+   - For example,
+     Input:
+     Enter any number: 3698
+     Output: 
+     This number is not a magic number.
+
+### 📊 Original Output Images
+To provide visual clarity, here are the original output images for each task:
+
+Task 1: Task Name  
+*(Screenshot of Output)*
+
+Task 2: Task Name  
+*(Screenshot of Output)*
+
+Task 3: Task Name  
+*(Screenshot of Output)*
+
+Task 4: Task Name  
+*(Screenshot of Output)*
+
  ## Get in Touch 📫
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaboration and discussions!
