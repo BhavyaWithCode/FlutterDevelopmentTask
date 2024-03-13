@@ -32,10 +32,93 @@ Check out my latest tasks and updates on my GitHub profile. I update it daily wi
 - 🧮 Task 12: Write programs to solve various mathematical formulas.
 
 ### Chapter 5: Control Structure
-- 🧮 Tasks 16-23: Write programs using if-else statements and switch-case.
-
+- 🧮 Tasks 13: Write a Program to find the minimum number from the given 2 numbers using if else.
+- 🧮 Tasks 14: Write a Program to find if a given number is neutral or not using a ladder if else.
+- 🧮 Tasks 15: Write a Program to find the number is even or odd using if else.
+- 🧮 Tasks 16: Write a Program to find the minimum number from the given 3 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.
+- 🧮 Tasks 17: Write a Program to find the maximum number from the given 4 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.
+- 🧮 Tasks 18: Write a Program to find the maximum number from the given 5 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.
+- 🧮 Tasks 19: Write a Program to find the minimum number from the given 4 numbers using the ternary operator.
+- 🧮 Tasks 20: Write a Program to create a menu-driven program for Telecom call service conversation using nested switch case.
+  
 ### Chapter 6: Looping
-- 🧮 Tasks 24-35: Write programs using different types of loops.
+- 🧮 Tasks 21: Write a Program to print 1 to n using a while loop.
+- 🧮 Tasks 22: Write a Program to print n to 1 using a while loop.
+- 🧮 Tasks 23: Write a Program to print odd numbers from N to 1 using a while loop.
+- 🧮 Tasks 24: Write a Program to print leap years between two given numbers using a while loop.
+- 🧮 Tasks 25: Write a Program to print 1 to 10 using a do-while loop.
+- 🧮 Tasks 26: Write a Program to print 10 to 1 using for loop.
+- 🧮 Tasks 27: Write a Program to print even numbers from 1 to N using a do-while loop.
+- 🧮 Tasks 28: Write a Program to print the fibonacci series up to N numbers using for loop.
+- 🧮 Tasks 29: Write a Program to print the sum of all numbers from 1 to N using for loop.
+- 🧮 Tasks 30: Write a Program to print the factorial of number N using for loop.
+- 🧮 Tasks 31: Write a Program to print the multiplication table of the number N using any type of loop.
+- 🧮 Tasks 32: Write a Program to find sum of first and last digit in a number.
+
+### Chapter 7:  Looping With Pattern
+- 🧮 Tasks 33:  Write a Program to print the below pattern using nested for loop.
+1
+2 1
+3 2 1
+4 3 2 1
+5 4 3 2 1
+- 🧮 Tasks 34: Write a Program to print the below pattern using nested for loop.
+5
+4 5
+3 4 5
+2 3 4 5
+1 2 3 4 5
+- 🧮 Tasks 35: Write a Program to print the below pattern using nested for loop.
+5
+4 4 
+3 3 3
+2 2 2 2
+1 1 1 1 1
+- 🧮 Tasks 36:  Write a Program to print the below pattern using nested for loop.
+1 2 3 4 5
+2 3 4 5
+3 4 5
+4 5
+5
+- 🧮 Tasks 37: Write a Program to print the below pattern using nested for loop.
+1 1 1 1 1
+2 2 2 2
+3 3 3
+4 4
+5 
+- 🧮 Tasks 38: Write a Program to print the below pattern using nested for loop.
+1 0 1 0 1
+1 0 1 0
+1 0 1
+1 0 
+1
+- 🧮 Tasks 39: Write a Program to print the below pattern using nested for loop.
+A
+B A
+C B A
+D C B A
+E D C B A
+- 🧮 Tasks 40: Write a Program to print the below pattern using nested for loop.
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+- 🧮 Tasks 41: Write a Program to print the below pattern using nested for loop.
+          1
+        2 1
+      3 2 1
+    4 3 2 1
+  5 4 3 2 1 
+- 🧮 Tasks 42: Write a Program to print the below pattern using nested for loop.
+          5
+        4 5
+      3 4 5
+    2 3 4 5
+  1 2 3 4 5
+- 🧮 Tasks 43: 
+
+
 
 ## Welcome to the Greenhorns Project 🌟
 
