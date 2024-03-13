@@ -1,6 +1,6 @@
-# Hello, I'm Bhavya Nagar! 👋
+# Bhavya Nagar's Programming Journey 🚀
 
-🚀🌟 Hello! I'm a passionate Flutter developer and a student at Red and White Multimedia Education. Currently, I'm honing my skills in C and C++ alongside my Flutter development journey. I love to explore new technologies and contribute to open-source projects. 💻📚
+👋 Hello, I'm Bhavya Nagar, a passionate Flutter developer and a student at Red and White Multimedia Education. I'm currently on an exciting journey of honing my skills in C and C++ alongside my Flutter development journey. I love to explore new technologies and contribute to open-source projects. Let's dive into my programming adventures! 💻📚
 
 ## About Me ℹ️
 
@@ -11,227 +11,69 @@
 
 ## My Tasks 🚧
 
-You can find my latest tasks and updates on my GitHub profile. I update it daily with my progress and new tasks, including lots of emojis! Here are some highlights:
+Check out my latest tasks and updates on my GitHub profile. I update it daily with my progress and new tasks, including lots of emojis! Here are some highlights:
 
-📖 (Ch-1) **Introduction to C Language:**<br/>
-📝(Task-1) Write a program to print name, age, and school.<br/>
-🔡(Task-2) Write a program pattern to print "RNW".<br/>
+### Chapter 1: Introduction to C Language
+- 📝 Task 1: Write a program to print name, age, and school.
+- 🔡 Task 2: Write a program pattern to print "RNW".
+- 🌟 Task 3: Write a program to print a specific pattern.
+- ✨ Task 4: Write a program to print another specific pattern.
 
-![RNW](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/731f6a5e-2ab2-46e2-b43b-7d4edbf03029)
+### Chapter 2: Datatype, Constant & Variable
+- 🔢 Task 5: Write a program to perform arithmetic operations.
+- 🔴🔄📏🔴² Task 6: Write a program to find the area of a circle.
+- 🟦🔄📏🟦 * 🟦🔄📐🟦 Task 7: Write a program to find the area of a rectangle.
+- 🔺🔄📐🔺 * 🔺🔄📏🔺 / 2 Task 8: Write a program to find the area of a triangle.
+- 💰 Task 9: Write a program to find Simple interest.
 
-🌟(Task-3) Write a program to print the following pattern:<br/>
+### Chapter 4: Operator & Expression
+- 🔁🔠🔄 Task 10: Write a Program to Swap two variables using the third variable.
+- 🔄🔠🔄 Task 11: Write a Program to Swap two variables without using the third variable.
+- 🧮 Task 12: Write programs to solve various mathematical formulas.
 
-![star_pattern_1](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/65cd244b-921f-4790-9ec6-2735570c9a97)<br/>
+### Chapter 5: Control Structure
+- 🧮 Tasks 16-23: Write programs using if-else statements and switch-case.
 
-✨(Task-4) Write a program to print the following pattern:<br/>
+### Chapter 6: Looping
+- 🧮 Tasks 24-35: Write programs using different types of loops.
 
-![star_pattern_2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/7e3d07d9-d11b-4d76-8d8d-b860662692a9)
+## Welcome to the Greenhorns Project 🌟
 
+### About the Project
+The Greenhorns Project is a sanctuary for budding coders, designed to nurture your skills and ignite your passion for programming. 🌿✨
 
-📖 (ch-2) **Datatype, Constant & Variable:**<br/>
-🔢 (Task-5) Write a program to perform all arithmetic operators such as +, -, *, /, and %.<br/>
-
-🎉 **Output:**
-Addition of 12 and 6 is 18<br/>
-Subtraction of 12 and 6 is 6<br/>
-Multiplication of 12 and 6 is 72<br/>
-Division of 12 and 6 is 2<br/>
-Modulo of 12 and 6 is 0<br/>
-
-12 + 6 = 18<br/>
-12 - 6 = 6<br/>
-12 * 6 = 72<br/>
-12 / 6 = 2<br/>
-12 % 6 = 0<br/>
-
-🔴🔄📏🔴²(Task-6) Write a Program to find the area of a circle.<br/>
-Formula: pi * radius * radius <br/>
-
-🟦🔄📏🟦 * 🟦🔄📐🟦(Task-7) Write a Program to find the area of a rectangle.<br/>
-Formula : area=width*height;<br/>
-
-🔺🔄📐🔺 * 🔺🔄📏🔺 / 2(Task-8) Write a Program to find the area of a triangle.<br/>
-Formula:area = (b*h)/2<br/>
-
-💰 = 💵 * 🕒 * 📈(Task-9) Write a Program to find Simple interest.<br/>
-Formula:<br/>
-Simple Interest = (P × R × T)/100  where P = Principal Amount, R = Rate per Annum, T = Time (years)<br/>
-
-📖 (ch-4) **4. Operator & Expression:**<br/>
-🔁🔠🔄 (Task-10) Write a Program to Swap two variables using the third variable.<br/>
-
-🔄🔠🔄 (Task-11) Write a Program to Swap two variables without using the third variable.<br/>
-
-🧮 (Task-12) Write a Program to find the formula's answer (x+y)².<br/>
-
-🧮 (Task-13) Write a Program to find the formula's answer (x-y)².<br/>
-
-🧮 (Task-14) Write a Program to find the formula's answer (x+y)³.<br/>
-
-🧮 (Task-15) Write a Program to find the formula's answer (x+y+z)².<br/>
-
-## 🌟 Welcome to the Greenhorns Project 🌟
-
-Welcome to the Greenhorns Project, a journey of discovery and learning for budding programmers! 🚀💻
-
-### 🌱 About the Project
-The Greenhorns Project is a sanctuary for budding coders, designed to nurture your skills and ignite your passion for programming. 🌿✨ In this project, you'll embark on a transformative journey of learning and discovery, guided by engaging tasks and supportive resources.
-
-### 🎯 Project Tasks
-In the Greenhorns project, you'll undertake three exciting tasks, each worth 10 marks. These tasks are designed to challenge your skills and deepen your understanding of programming concepts:
+### Project Tasks
+In this project, you'll undertake three exciting tasks, each worth 10 marks.
 
 1. **Task 1: Temperature Conversion**
    - Write a program to convert temperature from degrees Celsius to Fahrenheit.
-
 2. **Task 2: Gross Salary Calculation**
    - Write a C program to find gross salary by adding % of HRA, DA, and TA of user choice.
-
 3. **Task 3: Triangle Angle Calculation**
    - Write a C program to find the third angle of a triangle if two other angles are given.
 
-### 📊 Original Output Images
-To provide visual clarity, here are the original output images for each task:
+## Welcome to the Momentum Project 🎉
 
-Task 1: Temperature Conversion<br/>
+### About the Project
+The Momentum Project is geared towards helping you solidify your programming knowledge and advance your abilities to the next level. 💪📈
 
-![GreenHornsTask1](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/b051d167-f346-4ae6-bcd1-741d8e4b15bc)
-
-Task 2: Gross Salary Calculation<br/>
-
-![GreenHornsTask2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/e41df842-b794-4b86-a0c5-bca266688f30)
-
-Task 3: Triangle Angle Calculation<br/>
-
-![GreenHornsTask3](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/883562bd-a851-47bd-9ba1-82ae6aabad75)
-
-Complete these tasks to earn your marks and level up your programming prowess! 🏆🚀
-
-📖 (ch-5) **Control Structure:**<br/>
-🧮 (Task-16) Write a Program to find the minimum number from the given 2 numbers using if else.<br/>
-🧮 (Task-17) Write a Program to find if a given number is neutral or not using a ladder if else.<br/>
-🧮 (Task-18) Write a Program to find the number is even or odd using if else.<br/>
-🧮 (Task-19) Write a Program to find the minimum number from the given 3 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
-🧮 (Task-20) Write a Program to find the maximum number from the given 4 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
-🧮 (Task-21) Write a Program to find the maximum number from the given 5 numbers using nested if else. Also, draw a Flowchart in your book and create a diagram in draw.io.<br/>
-🧮 (Task-22) Write a Program to find the minimum number from the given 4 numbers using the ternary operator.<br/>
-🧮 (Task-23) Write a Program to create a menu-driven program for Telecom call service conversation using nested switch case.<br/>
-
-## 🎉 Welcome to the Momentum Project 🎉
-
-Welcome to the Momentum Project, where you'll find an exciting opportunity to enhance your programming skills further! 🚀💡
-
-### 🌟 About the Project
-The Momentum Project is geared towards helping you solidify your programming knowledge and advance your abilities to the next level. 💪📈 In this project, you'll tackle two tasks, each designed to earn you 10 marks upon completion.
+### Project Tasks
+In this project, you'll tackle two tasks, each designed to earn you 10 marks upon completion.
 
 1. **Task 1: Check Even or Odd**
-   - Write a program to check whether a number is even or odd using the ternary operator. For example:
-     - Input: Enter any number: 12
-     - Output: This number is Even.
-
+   - Write a program to check whether a number is even or odd using the ternary operator.
 2. **Task 2: Calculate Electricity Bill**
-   - Write a program to input electricity unit charges and calculate the total electricity bill according to the given condition:
-     - For the first 50 units Rs. 0.50/unit.
-     - For the next 100 units Rs. 0.75/unit.
-     - For the next 100 units Rs. 1.20/unit.
-     - For units above 250 Rs. 1.50/unit.
-     - An additional surcharge of 20% is added to the bill. For example:
-       - Input: Enter electricity units: 435
-       - Output: Electricity Bill = Rs. 597.00
+   - Write a program to input electricity unit charges and calculate the total electricity bill according to the given condition.
 
+## Welcome to the Temperate Project 🌟
 
-Complete these tasks to achieve a total of 10 marks and propel yourself forward in your programming journey! 🏆🚀
-
-### 📊 Original Output Images
-To provide visual clarity, here are the original output images for each task:
-
-Task 1: Even odd <br/>
-
-![Momentum-1](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/735651bc-69a6-4ee3-a770-089d91cd0ea3)
-
-
-Task 2: Electric City <br/>
-
-![Momentum-2](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/62f6e6db-818d-42ac-9ccf-ae7f09920982)
-
-
-Continue your momentum and keep advancing in your programming endeavors! 🌟🚀
-
-📖 (ch-6) **Looping:**<br/>
-🧮 (Task-24)  Write a Program to print 1 to n using a while loop.<br/>
-🧮 (Task-25)  Write a Program to print n to 1 using a while loop.<br/>
-🧮 (Task-26)  Write a Program to print odd numbers from N to 1 using a while loop.<br/>
-🧮 (Task-27)  Write a Program to print leap years between two given numbers using a while loop.<br/>
-🧮 (Task-28)  Write a Program to print 1 to 10 using a do-while loop.<br/>
-🧮 (Task-29)  Write a Program to print 10 to 1 using for loop.<br/>
-🧮 (Task-30)  Write a Program to print even numbers from 1 to N using a do-while loop.<br/>
-🧮 (Task-31)  Write a Program to print the fibonacci series up to N numbers using for loop.<br/>
-🧮 (Task-32)  Write a Program to print the sum of all numbers from 1 to N using for loop.<br/>
-🧮 (Task-33)  Write a Program to print the factorial of number N using for loop.<br/>
-🧮 (Task-34)  Write a Program to print the multiplication table of the number N using any type of loop.<br/>
-🧮 (Task-35)  Write a Program to find sum of first and last digit in a number.<br/>
-
-## 🌟 Welcome to the Temperate Project 🌟
-
-### About the Project:
+### About the Project
 The Temperate Project aims to provide a thorough exploration of C language concepts, empowering learners to enhance their programming skills and deepen their understanding of fundamental principles. 📝💻
 
-### Questions:
-Q.1 Write a Program to print all alphabets from a to z by skipping 3 alphabets using do while loop.<br/>
-   - For example,<br/>
-     Output: <br/>
-     a, e, i, m, q, u, y<br/>
+### Project Tasks
+In this project, you'll tackle several tasks covering various aspects of C programming.
 
-Q.2 Write a Program to count the total number of digits in a number.<br/>
-   - For example,<br/>
-     Input:<br/>
-     Enter any number: 752<br/>
-     Output: <br/>
-     Total number of digits: 3<br/>
-
-Q.3 Write a Program to find the sum of a first and the last digit of a number.<br/>
-   - For example,<br/>
-     Input:<br/>
-     Enter any number: 384<br/>
-     Output: <br/>
-     The sum of the first and the last digit: 7<br/>
-
-Q.4 Write a Program to find a number is a magic number or not.<br/>
-   - For example,<br/>
-     Input:<br/>
-     Enter any number: 1729<br/>
-     Output: <br/>
-     This number is a magic number.<br/>
-
-   - For example,<br/>
-     Input:<br/>
-     Enter any number: 3698<br/>
-     Output: <br/>
-     This number is not a magic number.<br/>
-
-### 📊 Original Output Images
-To provide visual clarity, here are the original output images for each task:
-
-Task 1: Alphabets  <br/>
-
-![Alphabets](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/152d7b8a-a94a-4b2e-80cc-93f2e619bd0b)<br/>
-
-Task 2: Count  <br/>
-
-![Counts](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/cc63840e-26d8-46fe-aea5-ce1693e282e5)<br/>
-
-Task 3: Sum of First and Last digit <br/>
-
-![sum_of_last_first](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/fd1530b8-0a62-4c8d-b873-75683b253dcf)
-
-Task 4: Magic Number <br/>
-
-![Magic_Number](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/50400b45-9c96-4367-94ce-3b1f8579c637)<br/>
-
-Task 4: Magic Number  <br/>
-
-![magicnumber](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/559262c4-0b62-46e8-bf11-05c8dc646895)<br/>
-
- ## Get in Touch 📫
+### Get in Touch 📫
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to collaboration and discussions!
 
@@ -243,4 +85,3 @@ Connect with me on social media platforms and let's grow together!
 
 - 🐦 Twitter: [twitter.com/BhavyaWithCode](https://twitter.com/BhavyaWithCode)
 - 📷 Instagram: [instagram.com/BhavyaWithCode](https://www.instagram.com/BhavyaWithCode)
-
