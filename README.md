@@ -302,8 +302,8 @@ Modulo of 12 and 6 is 0
    **Output:**
    Electricity Bill = Rs. 597.00
 
-# 🌀 Lecture 6: Looping 📝
-
+# 🌀 Chapter 6: Looping 📝
+## lecture 6.1 🚀
 ## Questions: 🤔
 
 📝 **Q.1** Write a Program to print 1 to n using a while loop. 🔄
@@ -514,7 +514,7 @@ Modulo of 12 and 6 is 0
    
 
 📝 **Q.8** Write a Program to print the below pattern using nested for loop. 🔄
-   ```
+  
    1
    2    3
    4    5    6
