@@ -1191,4 +1191,127 @@ Enter any number: 8<br/>
 Output:<br/>
 The sum of all numbers: 36<br/>
 
+#include<stdio.h><br/>
+#include<conio.h><br/>
+int main(){<br/>
+    int Number,Sum=0;<br/>
+    clrscr();<br/>
+    printf("\nEnter any number :- ");<br/>
+    scanf("%d",&Number);<br/>
+<br/>
+for (int i = 1; i <= Number; i++)<br/>
+    {<br/>
+        Sum+=i;<br/>
+    }<br/>
+<br/>
+printf("The sum of the numbers from 1 to %d is : %d\n",Number,Sum);<br/>
+    <br/>
+getch();<br/>
+return 0;<br/>
+}<br/>
 
+📝 **Q.2** Write a Program to print the factorial of number N using for loop.<br/>
+For example,<br/>
+Input:<br/>
+Enter any number: 5<br/>
+<br/>
+Output:<br/>
+The factorial is: 120 <br/>
+
+#include <stdio.h><br/>
+#include <conio.h><br/>
+int main()<br/>
+{<br/>
+    int Number, Factorials = 1;<br/>
+    clrscr();<br/>
+    printf("\nEnter an Number :- ");<br/>
+    scanf("%d", &Number);<br/>
+
+for (int i = 1; i <= Number; i++)<br/>
+    {<br/>
+        Factorials *= i;<br/>
+    }<br/>
+
+printf("The Factorial of %d is : %d\n", Number, Factorials);<br/>
+<br/>
+getch();<br/>
+return 0;<br/>
+}<br/>
+
+📝 **Q.3** Write a Program to print the multiplication table of the number N using any type of loop.<br/>
+For example,<br/>
+Input:<br/>
+Enter any number: 5<br/>
+
+Output:<br/>
+5 X 1 = 5<br/>
+5 X 2 = 10<br/>
+5 X 3 = 15<br/>
+5 X 4 = 20<br/>
+5 X 5 = 25<br/>
+5 X 6 = 30<br/>
+5 X 7 = 35<br/>
+5 X 8 = 40<br/>
+5 X 9 = 45<br/>
+5 X 10 = 50 <br/>
+
+#include<stdio.h><br/>
+#include<conio.h><br/>
+int main(){<br/>
+    int Number;<br/>
+    clrscr();<br/>
+    printf("\nEnter any Number :- ");<br/>
+    scanf("%d",&Number);<br/>
+
+printf("Multiplication of table %d:\n",Number);<br/>
+
+for (int  i = 1; i <= 10; i++)<br/>
+    {<br/>
+        printf("%d * %d = %d\n",Number,i,Number * i);<br/>
+    }<br/>
+getch;<br/>
+return 0;<br/>
+}<br/>
+
+📝 **Q.4** Write a Program to find sum of first and last digit in a number.<br/>
+For example,<br/>
+Input:<br/>
+Enter any number: 384<br/>
+<br/>
+Output: <br/>
+The sum of the first and the last digit: 7<br/>
+<br/>
+#include<stdio.h><br/>
+<br/>
+int main(){<br/>
+    int Number,Sum;<br/>
+
+printf("Enter any Number :- ");<br/>
+
+scanf("%d",&Number);<br/>
+
+Sum = Number % 10 + Number/10000;<br/>
+printf("The sum of the first and last digit : %d\n",Sum);<br/>
+<br/>
+return 0;<br/>
+}<br/>
+
+
+# 🌡️ Temperate Exam Tasks Submission: Total Marks - 10 📝
+
+Welcome to your Temperate exam tasks submission! Below are the instructions and questions for your submission. Remember to attempt all tasks individually and make suitable assumptions where necessary. 🚀✨
+
+## Instructions: 📋
+
+1. Attempt all assigned tasks. ✅
+2. Make suitable assumptions wherever necessary. 🤔
+3. Upload your exam task by uploading the project to GitHub and submitting the GitHub repository link which must have screenshots of your output in a README.md file. 📂
+4. These lab tasks are not in groups, so do not try to copy code from your classmates. 🚫
+
+## Questions: 🤔
+
+### Q.1 Print Alphabets Skipping 3 Letters 🔠
+
+Write a Program to print all alphabets from a to z by skipping 3 alphabets using do while loop.
+
+**Example Output:**
