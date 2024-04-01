@@ -1367,3 +1367,666 @@ Enter any number: 3698
 
 ![Not_Magic_Number](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/baac8c64-ccff-42a8-aed7-d6ff995b8db5)
 
+Certainly! Here's the markup language format with the patterns drawn after each question:
+
+```markdown
+# 🌀🌟🎉 Chapter 7: Looping With Patterns 🎉🌟🌀
+
+## 📚 Lecture 7.1: Nested For Loops
+
+### 🎓🔍 Q.1 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+#include<conio.h>
+
+main(){
+	int i,j;
+	
+	for(i=1;i<=5;i++)
+	{
+		for(j=i;j>=1;j--)
+		{
+			printf("%d",j);
+		}
+		printf("\n");
+	}
+}
+Pattern 1:
+1 
+2 1 
+3 2 1 
+4 3 2 1 
+5 4 3 2 1 
+```
+
+### 🎓🔍 Q.2 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+	int i,j;
+	
+	for(i=5;i>=1;i--)
+	{
+		for(j=i;j<=5;j++)
+		{
+			printf("%d",j);
+		}
+		printf("\n");
+	}
+}
+
+Pattern 2:
+5 
+4 5 
+3 4 5 
+2 3 4 5 
+1 2 3 4 5 
+```
+
+### 🎓🔍 Q.3 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+
+main()
+{
+	int i,j;
+	
+	for(i=5;i>=1;i--)
+	{
+			for(j=i;j<=5;j++)
+			{
+				printf("%d",i);
+			}
+			
+			printf("\n");
+	}	
+}
+
+Pattern 3:
+5 
+4 4 
+3 3 3 
+2 2 2 2 
+1 1 1 1 1 
+```
+
+### 🎓🔍 Q.4 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+
+main()
+{
+	int i,j;
+	for(i=1;i<=5;i++)
+	{
+		for(j=i;j<=5;j++)
+		{
+			printf("%d",j);
+		}
+		
+		printf("\n");
+	}
+}
+
+Pattern 4:
+1 2 3 4 5 
+2 3 4 5 
+3 4 5 
+4 5 
+5 
+```
+
+### 🎓🔍 Q.5 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int i, j;
+
+    for (i = 1; i <= 5; i++) 
+	{
+        for (j = 1; j <= 6 - i; j++) 
+		{
+            printf("%d ", i);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+
+Pattern 5:
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+```
+
+### 🎓🔍 Q.6 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+main()
+{
+	int i,j;
+	for(i=1;i<=6;i++)
+	{
+		for(j=1;j<=6-i;j++)
+		{
+			printf("%d ",j%2);
+		}
+		printf("\n");
+	}
+}
+
+
+Pattern 6:
+1 
+1 0 
+1 0 1 
+1 0 1 0 
+1 0 1 0 1 
+```
+
+### 🎓🔍 Q.7 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int i, j;
+
+    for (i = 0; i < 5; i++) 
+	{
+        for (j = i; j >= 0; j--) 
+		{
+            printf("%c ", 'A' + j);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+
+Pattern 7:
+A 
+B A 
+C B A 
+D C B A 
+E D C B A 
+```
+
+### 🎓🔍 Q.8 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int i, j;
+    int num = 1;
+
+    for (i = 0; i < 5; i++) 
+	{
+        for (j = 0; j <= i; j++) 
+		{
+            printf("%d ", num);
+            num++;
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+
+Pattern 8:
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+```
+
+Sure, I'll provide the questions along with the code solutions and pattern drawings in markup language format:
+
+```markdown
+## 📚 Lecture 7.2: Nested For Loops
+
+### 🎓🔍 Q.1 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+
+main()
+{
+	int i,j,s;
+	
+	for(i=1;i<=5;i++)
+	{
+		for(s=0;s<5-i;s++)
+		{
+			printf(" ");
+		}
+		for(j=i;j>=1;j--)
+		{
+			printf("%d",j);
+		}
+		printf("\n");
+	}
+}
+
+Pattern 1:
+        1 
+      2 1 
+    3 2 1 
+  4 3 2 1 
+5 4 3 2 1 
+```
+
+### 🎓🔍 Q.2 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+
+main()
+{
+	int i,j,s;
+	
+	for(i=5;i>=1;i--)
+	{
+		for(s=1;s<i;s++)
+		{
+			printf(" ");
+		}
+		for(j=i;j<=5;j++)
+		{
+			printf("%d",j);
+		}
+		printf("\n");
+	}
+}
+
+Pattern 2:
+5 4 3 2 1 
+  5 4 3 2 
+    5 4 3 
+      5 4 
+        5 
+```
+
+### 🎓🔍 Q.3 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+
+main() {
+    int i, j, s;
+
+    for (i = 5; i >= 1; i--) 
+	{
+       
+        for (s = 1; s < i; s++) 
+		{
+            printf("  ");
+        }
+        
+     
+        for (j = i; j <= 5; j++) 
+		{
+            printf("%d", i);
+            if (j != 5) 
+			{
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+
+Pattern 3:
+        5 
+      4 4 
+    3 3 3 
+  2 2 2 2 
+1 1 1 1 1 
+```
+
+### 🎓🔍 Q.4 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include<stdio.h>
+
+main()
+{
+	int i,j,s;
+	for(i=0;i<5;i++)
+	{
+		for(s=0;s<i;s++)
+		{
+			printf(" ");
+		}
+		for(j=0;j<5-i;j++)
+		{
+			printf("%d ",(i + j) % 2);
+		}
+		
+		printf("\n");
+	}
+}
+
+Pattern 4:
+1 0 1 0 1 
+  0 1 0 1 
+    1 0 1 
+      0 1 
+        1 
+```
+
+### 🎓🔍 Q.5 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int i,j,s;
+
+    
+    for (i = 0; i < 5; i++) 
+	{
+       
+        for (s = 0; s < i; s++) 
+		{
+            printf("  ");
+        }
+
+        
+        for (j = 5 - i; j >= 1; j--) {
+            printf("%d ", j);
+        }
+
+        printf("\n");
+    }
+}
+
+Pattern 5:
+5 4 3 2 1 
+  5 4 3 2 
+    5 4 3 
+      5 4 
+        5 
+```
+
+### 🎓🔍 Q.6 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int i,j,s;
+
+    
+    for (i = 0; i < 5; i++) 
+	{
+       
+        for (s = 0; s < i; s++) 
+		{
+            printf("  ");
+        }
+
+        
+        for (j = 5; j > i; j--) {
+            printf("%d ", j);
+        }
+
+        printf("\n");
+    }
+}
+
+Pattern 6:
+5         
+5 4       
+5 4 3     
+5 4 3 2   
+5 4 3 2 1 
+```
+
+### 🎓🔍 Q.7 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    
+    int i,j;
+    
+    for (i = 1; i <= 5; i++) 
+	{
+        for (j = 1; j <= 5 - i + 1; j++) 
+		{
+            printf("%d ", j);
+        }
+        printf("\n");
+    }
+
+   
+    for (i = 1; i <= 5; i++) 
+	{
+        for (j = 1; j <= i; j++) 
+		{
+            printf("%d ", j);
+        }
+        printf("\n");
+    }
+}
+
+Pattern 7
+
+:
+1 2 3 4 5 5 4 3 2 1
+1 2 3 4      4 3 2 1
+1 2 3          3 2 1
+1 2              2 1
+1                  1
+```
+
+### 🎓🔍 Q.8 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+   
+    int i,j,s; 
+    for (i = 1; i <= 5; i++) 
+	{
+        
+        for (s = 1; s<= 5 - i; s++) 
+		{
+            printf("  ");
+        }
+
+        
+        for (j = 1; j <= i; j++) 
+		{
+            printf("%d ", j);
+        }
+
+        
+        for (j = i - 1; j >= 1; j--) 
+		{
+            printf("%d ", j);
+        }
+
+        printf("\n");
+    }
+
+    
+    for (i = 1; i <= 5; i++) 
+	{
+        
+        for (s = 1; s <= i; s++) 
+		{
+            printf("  ");
+        }
+
+      
+        for (j = 1; j <= 5 - i + 1; j++) 
+		{
+            printf("%d ", j);
+        }
+
+       
+        for (j = 5 - i; j >= 1; j--) 
+		{
+            printf("%d ", j);
+        }
+
+        printf("\n");
+    }
+}
+
+Pattern 8:
+1 2 3 4 5 5 4 3 2 1
+1 2 3 4       4 3 2 1
+1 2 3           3 2 1
+1 2               2 1
+1                   1
+1 2               2 1
+1 2 3           3 2 1
+1 2 3 4       4 3 2 1
+1 2 3 4 5 5 4 3 2 1
+```
+
+### 🎓🔍 Q.9 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    
+    int i,j;
+    
+    for (i = 1; i <= 5; i++) 
+	{
+        for (j = 1; j <= 5 - i + 1; j++) 
+		{
+            printf("%d ", j);
+        }
+        printf("\n");
+    }
+
+   
+    for (i = 1; i <= 5; i++) 
+	{
+        for (j = 1; j <= i; j++) 
+		{
+            printf("%d ", j);
+        }
+        printf("\n");
+    }
+}
+
+Pattern 9:
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+```
+
+### 🎓🔍 Q.10 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    
+    int i,j,s;
+    for (i = 1; i <= 5; i++) 
+	{
+        
+        for (s=1; s<=5 - i; s++) 
+		{
+            printf("  ");
+        }
+
+        
+        for (j = 1; j <= i; j++) 
+		{
+            printf("%d ", j);
+        }
+
+        
+        for (j = i - 1; j >= 1; j--) 
+		{
+            printf("%d ", j);
+        }
+
+        printf("\n");
+    }
+}
+
+
+Pattern 10:
+         1
+       1 2 1
+     1 2 3 2 1
+   1 2 3 4 3 2 1
+ 1 2 3 4 5 4 3 2 1
+```
+
+### 🎓🔍 Q.11 Write a Program to print the below pattern using nested for loop.
+
+```c
+#include <stdio.h>
+
+int main() {
+    
+    int i,j,s;
+    for (i = 1; i <= 5; i++) 
+	{
+        
+        for (s=1; s<=5 - i; s++) 
+		{
+            printf("  ");
+        }
+
+        
+        for (j = 1; j <= i; j++) 
+		{
+             printf("* ");
+        }
+
+        
+        for (j = i - 1; j >= 1; j--) 
+		{
+             printf("* ");
+        }
+
+        printf("\n");
+    }
+}
+
+Pattern 11:
+          *
+        * * *
+      * * * * *
+    * * * * * * *
+  * * * * * * * * *
+```
+
