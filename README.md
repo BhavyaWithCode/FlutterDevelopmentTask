@@ -1315,3 +1315,55 @@ Welcome to your Temperate exam tasks submission! Below are the instructions and 
 Write a Program to print all alphabets from a to z by skipping 3 alphabets using do while loop.
 
 **Example Output:**
+a, e, i, m, q, u, y
+
+![print_all_alphabet](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/c6557cfe-9543-484a-a24a-2ad297ee2e35)
+
+### Q.2  A simple C program to count the total number of digits in a number.
+
+## Example
+
+Input:
+👉 Enter any number: 752
+
+Output:
+🔢 Total number of digits: 3
+
+![total_number_conts](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/63f689cd-410c-4313-8ebc-32555803ddd0)
+
+### Q.3 🌟 Sum of First and Last Digit Program 🌟
+
+🔢 This program calculates the sum of the first and the last digit of a given number. 🔢
+
+## Example
+
+👉 **Input:**  
+Enter any number: 384
+
+👉 **Output:**  
+🔢 The sum of the first and the last digit: 7
+
+![Sum_Digit](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/2ac90036-86c2-4b5e-a5c3-a8195601e988)
+
+### Q.4 🌟 Magic Number Checker Program 🌟
+
+🔮 This program checks whether a given number is a magic number or not. 🔮
+
+## Example
+
+👉 **Input:**  
+Enter any number: 1729
+
+👉 **Output:**  
+✨ This number is magic number. ✨
+
+![Magic_Number](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/7279e22b-8a83-4e9b-b60e-8430e8f761de)
+
+👉 **Example:**  
+Enter any number: 3698
+
+👉 **Output:**  
+🚫 This number is not magic number. 🚫
+
+![Not_Magic_Number](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/baac8c64-ccff-42a8-aed7-d6ff995b8db5)
+
