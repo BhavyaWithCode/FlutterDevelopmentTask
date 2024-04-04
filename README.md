@@ -1367,9 +1367,6 @@ Enter any number: 3698
 
 ![Not_Magic_Number](https://github.com/BhavyaWithCode/FlutterDevelopmentTask/assets/153913406/baac8c64-ccff-42a8-aed7-d6ff995b8db5)
 
-Certainly! Here's the markup language format with the patterns drawn after each question:
-
-```markdown
 # 🌀🌟🎉 Chapter 7: Looping With Patterns 🎉🌟🌀
 
 ## 📚 Lecture 7.1: Nested For Loops
@@ -1595,9 +1592,6 @@ Pattern 8:
 11 12 13 14 15 
 ```
 
-Sure, I'll provide the questions along with the code solutions and pattern drawings in markup language format:
-
-```markdown
 ## 📚 Lecture 7.2: Nested For Loops
 
 ### 🎓🔍 Q.1 Write a Program to print the below pattern using nested for loop.
@@ -2028,5 +2022,83 @@ Pattern 11:
       * * * * *
     * * * * * * *
   * * * * * * * * *
+```
+
+# 🌟 Welcome to Circlet! 🌟
+
+Welcome to the Circlet project Below, you'll find solutions to the assigned tasks.
+
+### Total Marks: 🔟
+
+### Instructions:
+1️⃣ Attempt all assigned tasks.
+2️⃣ Make suitable assumptions wherever necessary.
+3️⃣ Upload your exam task by uploading the project to GitHub and submitting the GitHub repository link which must have screenshots of your output in a README.md file.
+4️⃣ These lab tasks are not in groups, so do not try to copy code from your classmates. 🚫
+
+## Questions:
+
+### Q.1: Pattern Using Nested For Loop
+```
+41
+41 42
+41 42 43
+41 42 43 44
+41 42 43 44 45
+```
+
+### Q.2: Pattern Using Nested For Loop
+```
+11
+12 13
+14 15 16
+17 18 19 20
+21 22 23 24 25
+```
+
+### Q.3: Pattern Using Nested For Loop
+```
+         5
+       4 5
+     3 4 5
+   2 3 4 5
+ 1 2 3 4 5
+```
+
+### Q.4: Pattern Using Nested For Loop
+```
+1 0 1 0 1
+  1 0 1 0
+    1 0 1
+      1 0
+        1
+```
+
+### Q.5: Pattern Using Nested For Loop
+```
+1                 1
+1 2             2 1
+1 2 3         3 2 1
+1 2 3 4     4 3 2 1
+1 2 3 4 5 5 4 3 2 1
+```
+
+### Q.6: Pattern Using Nested For Loop
+```
+           5
+         4 5 4
+       3 4 5 4 3
+     3 3 4 5 4 3 2
+   1 2 3 4 5 4 3 2 1
+
+```
+
+### Q.7: Pattern Using Nested For Loop
+```
+*  *  *  *  *
+*             *
+*  *  *  *  *
+*             *
+*             *
 ```
 
