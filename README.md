@@ -65,20 +65,26 @@ I've learned C programming language during my time at Red and White Multimedia E
 ## Repository Structure 📂
 - **/Chapter1**: Contains tasks and projects related to Chapter 1.
 - **/Chapter2**: Contains tasks and projects related to Chapter 2.
-- **/Chapter1**: Contains tasks and projects related to Chapter 1.
-- **/Chapter2**: Contains tasks and projects related to Chapter 2.
-- **/Chapter1**: Contains tasks and projects related to Chapter 1.
-- **/Chapter2**: Contains tasks and projects related to Chapter 2.
-- **/Chapter1**: Contains tasks and projects related to Chapter 1.
-- **/Chapter2**: Contains tasks and projects related to Chapter 2.
-- **/Chapter1**: Contains tasks and projects related to Chapter 1.
-- **/Chapter2**: Contains tasks and projects related to Chapter 2.
-- **/Chapter1**: Contains tasks and projects related to Chapter 1.
-- **/Chapter2**: Contains tasks and projects related to Chapter 2.
-- **/Chapter1**: Contains tasks and projects related to Chapter 1.
-- **/Chapter2**: Contains tasks and projects related to Chapter 2.
-- **/Chapter1**: Contains tasks and projects related to Chapter 1.
-- **/Chapter2**: Contains tasks and projects related to Chapter 2.
+- **/Chapter3**: Contains tasks and projects related to Chapter 3.
+- **/Chapter4**: Contains tasks and projects related to Chapter 4.
+- **/Chapter5**: Contains tasks and projects related to Chapter 5.
+- **/Chapter6**: Contains tasks and projects related to Chapter 6.
+- **/Chapter7**: Contains tasks and projects related to Chapter 7.
+- **/Chapter8**: Contains tasks and projects related to Chapter 8.
+- **/Chapter9**: Contains tasks and projects related to Chapter 9.
+- **/Chapter10**: Contains tasks and projects related to Chapter 10.
+- **/Chapter11**: Contains tasks and projects related to Chapter 11.
+- **/Chapter12**: Contains tasks and projects related to Chapter 12.
+- **/Chapter13**: Contains tasks and projects related to Chapter 13.
+- **/Chapter14**: Contains tasks and projects related to Chapter 14.
+- **/Chapter15**: Contains tasks and projects related to Chapter 15.
+- **/Chapter16**: Contains tasks and projects related to Chapter 16.
+- **/Chapter17**: Contains tasks and projects related to Chapter 17.
+- **/Chapter18**: Contains tasks and projects related to Chapter 18.
+- **/Chapter19**: Contains tasks and projects related to Chapter 19.
+- **/Chapter20**: Contains tasks and projects related to Chapter 20.
+- **/Chapter21**: Contains tasks and projects related to Chapter 21.
+- **/Chapter22**: Contains tasks and projects related to Chapter 22.
 
 
 Feel free to explore the repository and my learning journey! If you have any suggestions or questions, don't hesitate to reach out. 🌟
